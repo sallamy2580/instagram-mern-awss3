@@ -82,9 +82,5 @@ Branch [dev-v1](https://github.com/jigar-sable/instagram-mern/tree/dev-v1) uses 
 
 If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jigar-sable)
+[![telegram](https://t.me/superpolaris]
 
-© 2022 Jigar Sable
-
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
