@@ -82,5 +82,5 @@ Branch [dev-v1](https://github.com/jigar-sable/instagram-mern/tree/dev-v1) uses 
 
 If you want to contact me, you can reach me through below handles.
 
-[![telegram](https://t.me/superpolaris]
+[telegram](https://t.me/superpolaris]
 
