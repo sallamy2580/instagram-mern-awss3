@@ -82,5 +82,9 @@ Branch [dev-v1](https://github.com/jigar-sable/instagram-mern/tree/dev-v1) uses 
 
 If you want to contact me, you can reach me through below handles.
 
-[telegram](https://t.me/superpolaris]
+[![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/sallamy2580)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/sallamy2580)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/sallamy2580)
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/superpolaris)
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](go-getter@0739)
 
